@@ -1,4 +1,4 @@
-# waiter-caller
+# Waiter Caller 
 
 This is the third and final example project from my book Flask By Example (https://flaskbyexample.com)
 
